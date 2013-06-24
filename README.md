@@ -34,4 +34,31 @@ and states that this process is eliminating more than 50% of the code.
 * [Karma](http://karma-runner.github.io/0.8/index.html) is a great tool developed for this
 * Works well with [Jasmine](http://pivotal.github.io/jasmine/) (designed with it in mind) -- 
 similar BDD style that Mocha supports.
+* Demonstrated using [Sinon.JS](http://sinonjs.org/) his tests too.
+
+## Example test
+
+```javascript
+describe('catalogCtrl', function() {
+  var ctrlConstructor, scope;
+
+  beforeEach(module('myApp.controllers'));
+  beforeEach(module('myApp.services'));
+
+  beforeEach(inject(function($controller, $rootScope) {
+    ctrlConstructor = $controller;
+    scope = $rootScope.$new();
+  }
+
+it('should add the correct item to the cart with a qty of 1', fucntion () {
+  var mockCart = {add: sinon.stub()};
+  var mockGame = {id: 1}
+
+  ctrlConstructor('CatalogCtrl', {$scope: scope, cart: mockCart});
+
+  scope.add(mockGame);
+  expect(mockCart.add.calledWith(1, 1)).toBe(true);
+});
+
+```
 
