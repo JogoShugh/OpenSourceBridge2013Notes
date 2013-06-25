@@ -70,16 +70,16 @@ it('should add the correct item to the cart with a qty of 1', fucntion () {
 Presented by [Kronda Adair](http://karveldigital.com/), web developer, Portland native. 
 Blogs at [http://kronda.com/](kronda.com/). 
 
-## Session details
+### Session details
 
 Session: [http://opensourcebridge.org/sessions/1148](http://opensourcebridge.org/sessions/1148)
 Slides: [https://speakerdeck.com/kronda/expanding-your-empathy](https://speakerdeck.com/kronda/expanding-your-empathy)
 
-## Description
+### Description
 
 > "I believe empathy is the core competency that is missing from much of the efforts to push the tech community in a direction towards more diversity of all kinds. Companies, communities and conferences cannot expect everything to magically change until they’re willing to go deep and examine the systemic patterns and structures that keep underrepresented communities from feeling safe and welcome in the tech space."
 
-## Takeaways
+### Takeaways
 
 I was not sure what to expect from this talk. I thought it would be about expanding empathy for end-users, though it 
 seemed to be more about empathy for fellow open-source citizens.
@@ -100,9 +100,22 @@ puzzled and asked "Are you here with your husband?" before letting her enter.
 interviewed her. Oops. (And, a cursory look at the history of totem poles shows that lower-down depections are often **more**
 important than ones higher up on the pole.)
 
-## Links
+### Links
 
 * [http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki](Geek Feminism Wiki)
 * [http://www.understandracism.org/](Uniting to Understand Racism)
 * [http://revisionpath.com/](Revision Path -- a weekly showcase of the world's black graphic designers, web designers, and web developers (Atlanta based)
 
+## Innovating Faster with a Micro-Service Architecture using SBT, Continuous Delivery, and LXC
+
+## Training the Trainers
+
+## How My Kids are Learning to Program by Talking
+
+## Designgenineering
+
+## Unconference: Open source for underserved communities
+
+## Unconference: Hadoop and Big Data processing
+
+## Unconference: AngularJS and fighting disease
