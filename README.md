@@ -35,7 +35,7 @@ Notes, links, video and slides eventually at: [http://opensourcebridge.org/sessi
 and states that this process is eliminating more than 50% of the code.
 * AngularJS's built in support for client-side testing is impressive, and
 * [Karma](http://karma-runner.github.io/0.8/index.html) is a great tool developed for this
-* Works well with [Jasmine](http://pivotal.github.io/jasmine/) (designed with it in mind) -- 
+* Works well with [Jasmine](https://jasmine.github.io/) (designed with it in mind) -- 
 similar BDD style that Mocha supports.
 * Demonstrated using [Sinon.JS](http://sinonjs.org/) his tests too.
 
